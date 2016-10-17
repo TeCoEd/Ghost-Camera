@@ -1,5 +1,6 @@
 # Ghost-Camera
 Raspberry Pi, Pimoroni EnviropHAT ghost camera project
+![](images/Brown_lady.jpg)
 
 As a child I learnt that to see if  a Ghost is present there are a number of elements that can be checked. 1) Is there a sudden drop in the temperature? 2) Are objects moving or being moved? 3) Are the lights turned on and off ? 
 ​
